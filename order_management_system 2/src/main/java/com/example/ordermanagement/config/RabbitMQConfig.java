@@ -1,0 +1,2 @@
+@Configuration
+public class RabbitMQConfig { ... }

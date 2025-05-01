@@ -1,0 +1,1 @@
+CREATE TABLE orders (id NUMBER PRIMARY KEY, status VARCHAR2(50));
